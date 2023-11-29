@@ -1,0 +1,10 @@
+body {
+  background-color: #f0e6ef;
+  /* display: flex; */
+  font-family: "Neucha";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
