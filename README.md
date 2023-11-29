@@ -2,7 +2,7 @@
 
 This is a small travel journal that I created for my semester abroad in Chile using `ReactJS`. I created this by following some tutorials on the topic. It includes most of the places I visited during my 6 months in the country and some information I liked about those places. I have also included an image for each place (I took these images on my own).
 
----
+## [Live Preview](https://chris-gou.github.io/chile-journey/)
 
 ## Technologies used
 
@@ -22,12 +22,13 @@ npm install
 ```
 
 ```
-npm run dev
+npm start
 ```
 
 ### Things that I found helpful
 
 - [React Tutorial for beginners](https://www.youtube.com/watch?v=SqcY0GlETPk)
+- [Getting started with React](https://create-react-app.dev/docs/getting-started/)
 - [ Travel Journal Website - React JS ](https://www.youtube.com/watch?v=eipM1smJBEU)
 - [Travel-Journal-ReactJS](https://github.com/hmjatt/Travel-Journal-ReactJS/tree/main)
 - [Bootstrap](https://getbootstrap.com/)
