@@ -8,7 +8,7 @@ This is a small travel journal that I created for my semester abroad in Chile us
 
 - HTML | CSS | Bootstrap
 - React
-- TSX
+- JS
 - github pages
 
 ## How to use
